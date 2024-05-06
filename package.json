@@ -2,6 +2,7 @@
   "name": "baykar_js_quiz_app",
   "version": "0.1.0",
   "private": true,
+  "author": "Ulaş Kökkılıç",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
